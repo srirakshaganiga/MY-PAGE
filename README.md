@@ -14,9 +14,3 @@ Two players can play this game by entering their moves in the console.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/xo-game.git
-
