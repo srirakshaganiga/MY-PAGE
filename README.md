@@ -1,6 +1,6 @@
 # XO Game (Tic-Tac-Toe)
 
-This is a simple **Tic-Tac-Toe (XO) game** built using Java.  
+This is a simple **Tic-Tac-Toe (XO) game** built using c.  
 Two players can play this game by entering their moves in the console.
 
 ---
